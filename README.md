@@ -34,6 +34,8 @@ Lorsque l'un des joueurs remplit une ligne, une colonne ou une diagonale avec so
 - Un compilateur prenant en charge le C, tel que `gcc`.
 - La bibliothèque GTK 3.0 ou supérieure installée sur votre système.
 
+---
+
 ## Auteur
 
 Dubost Victor : victor.dubost@reseau.eseo.fr
