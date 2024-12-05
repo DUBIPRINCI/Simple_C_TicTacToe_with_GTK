@@ -1,0 +1,11 @@
+.game-button {
+  font-size: 100px;
+  font-weight: bold;
+  color: black;
+  padding: 0;
+}
+
+label {
+  font-size: 12px;
+  font-weight: bold;
+}
